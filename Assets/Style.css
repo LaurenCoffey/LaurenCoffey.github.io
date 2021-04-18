@@ -1,0 +1,71 @@
+h1 {
+    color: violet;
+    text-align: center;
+  }
+ h2 {
+    color: blueviolet;
+    text-align: center;
+  }
+  h3 {
+    color: rebeccapurple; }
+
+   h1 {
+  background-color: #b3ffb3;
+}
+
+
+h2 {
+  background-color: #fcfc8c;
+}
+
+body {
+  background-color: #ffc7e8d2;
+}
+
+ul.nav-menu {
+  list-style-type:none;
+ 
+}
+
+.nav-menu li {
+  display: inline;
+}
+
+ul.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(115, 236, 247);
+}
+
+.nav-menu li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+.nav-menu li:last-child {
+  border-right: none;
+}
+
+.nav-menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-menu li a:hover:not(.active) {
+  background-color: rgb(164, 244, 250);
+}
+
+
+h1 {
+  font-family: "Lucida Handwriting", 'Lucida Sans Regular';
+}
+
+
+
+    
+    
